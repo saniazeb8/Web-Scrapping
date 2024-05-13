@@ -1,7 +1,7 @@
 # Data Collection Exercise for Sentiment Analysis
 
 ### Summary
-This research explores the experiences of parents practicing intensive parenting, examining the trade-offs between child-rearing and other life facets and their emotions when engaging in childcare-related discussions. Through this analysis, the study seeks to provide insights into the current dynamics of parental care and their wider societal implications, especially concerning intergenerational equity and socio-economic well-being.
+This exercise was conducted for research which explores the experiences of parents practicing intensive parenting, examining the trade-offs between child-rearing and other life facets and their emotions when engaging in childcare-related discussions. Through this analysis, the study seeks to provide insights into the current dynamics of parental care and their wider societal implications, especially concerning intergenerational equity and socio-economic well-being.
 
 ### Research Questions      
 
